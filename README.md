@@ -1,45 +1,99 @@
-# Hi there, I'm Shaon Paul 👋
+<div align="center">
 
-![Banner Image](your_banner_image_url_here)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Hi%20There!%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergrad%20%7C%20Competitive%20Programmer%20%7C%20Builder&descAlignY=55&descSize=18" />
 
-## About Me 🚀
+<br/>
 
-I'm a passionate **[Your Job Title / Developer Rol]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/yourhandle"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://leetcode.com/yourhandle"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+<br/><br/>
 
-## My Skills 🧠
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Second+Year+CSE+Student;Solving+Problems%2C+One+Bug+at+a+Time;Learning+DSA+%2B+Competitive+Programming;Building+Small%2C+Shipping+Often" />
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+</div>
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+<br/>
 
-## Featured Projects 💻
+## 🌱 About Me
 
-### [Project 1 Title](project_1_link)
+```yaml
+name: "[Your Name]"
+role: "CSE Undergraduate — 2nd Year"
+focus: ["Competitive Programming", "DSA", "Small Projects"]
+currently_learning: ["Segment Trees", "Graph Theory", "[Add topic]"]
+fun_fact: "Debugging is my cardio 🏃"
+```
 
-![Project 1 Screenshot](project_1_screenshot_url)
+- 🎓 2nd year CSE student, learning by building and breaking things
+- 🧩 Deep into **Competitive Programming** — chasing the next rating milestone
+- 🛠️ Turning theory into small, working projects
+- 💬 Ask me about C++, problem-solving strategies, or my latest project
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+<br/>
 
-### [Project 2 Title](project_2_link)
+## 🧠 Competitive Programming
 
-![Project 2 Screenshot](project_2_screenshot_url)
+<div align="center">
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+| Platform | Handle | Profile |
+|:---:|:---:|:---:|
+| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | `shaon27` | [visit →](https://codeforces.com/profile/shaon27) |
+| ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | `paulshanto` | [visit →](https://www.codechef.com/users/paulshanto) |
 
-## Get in Touch 📬
+</div>
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+> 🔥 **Current grind:** *[e.g. Dynamic Programming, Graphs, Number Theory]*
 
+<br/>
 
+## 💻 Small Projects
+
+Working !!
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,git,github,linux,vscode" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true" width="48%" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+
+<sub>⚙️ Requires a one-time GitHub Action setup — see note below</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=58A6FF&style=flat-square&label=Profile+Views)
+
+<i>Learning today, building tomorrow. 🚀</i>
+
+</div>
