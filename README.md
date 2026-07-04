@@ -21,7 +21,7 @@
 
 ```yaml
 Name: Shaon Paul Shanto
-Role: CSE Undergraduate — 2nd Year
+Role: CSE Undergraduate , Jahangirnagar University
 Focus: "Competitive Programming", "DSA", "Small Projects"
 Currently Learning: "Segment Trees", "Graph Theory"
 ```
