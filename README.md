@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Hi%20There!%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergrad%20%7C%20Competitive%20Programmer%20%7C%20Builder&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Hi%20There!%20I'm%20Shaon%20Paul&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergrad%20%7C%20Competitive%20Programmer%20%7C%20Builder&descAlignY=55&descSize=18" />
 
 <br/>
 
@@ -20,11 +20,10 @@
 ## 🌱 About Me
 
 ```yaml
-name: "[Your Name]"
-role: "CSE Undergraduate — 2nd Year"
-focus: ["Competitive Programming", "DSA", "Small Projects"]
-currently_learning: ["Segment Trees", "Graph Theory", "[Add topic]"]
-fun_fact: "Debugging is my cardio 🏃"
+Name: Shaon Paul Shanto
+Role: CSE Undergraduate — 2nd Year
+Focus: "Competitive Programming", "DSA", "Small Projects"
+Currently Learning: "Segment Trees", "Graph Theory"
 ```
 
 - 🎓 2nd year CSE student, learning by building and breaking things
